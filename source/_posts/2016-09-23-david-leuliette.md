@@ -1,8 +1,9 @@
 ---
-title: David Leuliette un développeur JavaScript pleine de ressources
+titleP: David Leuliette un développeur JavaScript pleine de ressources
+title: David Leuliette un de mes mentors
 date: 23/09/2016
 desc: David leuliette Designer & développeur
-tags: [Designer, Développeur Web]
+tags: [Designer, Développeur Web, JavaScript, Design, MobileFirst]
 ---
 
 ![davidleuliette developpeur front-end](davidLeuliette.jpg)
