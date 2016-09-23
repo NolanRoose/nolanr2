@@ -1,6 +1,7 @@
 ---
 title: David une personne pleine de ressources
 date: 23/09/2016
+desc: David leuliette Designer & développeur
 tags: [Designer, Développeur Web]
 ---
 
