@@ -4,7 +4,7 @@ date: 23/09/2016
 tags: [Designer, Développeur Web]
 ---
 
-![davidleuliette developpeur front-end](https://cloud.githubusercontent.com/assets/14938257/18304917/66493cb8-74e5-11e6-84fd-67dcf8f4749f.jpg)
+![davidleuliette developpeur front-end](davidLeuliette.jpg)
 
 Bonjour à tous, voici mon premier article, qui parlera d’une personne qui m’a beaucoup influencé et aidé à progresser.
 

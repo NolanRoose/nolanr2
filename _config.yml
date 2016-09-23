@@ -75,5 +75,7 @@ archive_generator:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/NolanRoose/nolanr2
+  repo: git@github.com:NolanRoose/nolanr2.git
   branch: [gh-pages]
+  name: [NolanRoose]
+  email: [roose.nolan@gmail.com]
