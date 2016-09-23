@@ -1,5 +1,5 @@
 ---
-title: David Leuliette un développeur JavaScript plein de ressources
+title: David Leuliette un développeur JavaScript pleine de ressources
 date: 23/09/2016
 desc: David leuliette Designer & développeur
 tags: [Designer, Développeur Web]
