@@ -1,0 +1,24 @@
+extends partial/base
+
+block site_title
+       = page.titleP
+block description
+    meta(name="description", content=page.desc)
+
+block header
+    header.header-section
+        .intro-header.no-img
+            .page-heading
+                h2!= page.title
+                if page.subtitle
+                    hr.small
+                    span.page-subheading!= page.subtitle
+
+block content
+    .container
+        .row
+            .col-lg-8.col-lg-offset-2.col-md-10.col-md-offset-1
+                article(role="main", class="blog-post")
+                    != page.content
+
+

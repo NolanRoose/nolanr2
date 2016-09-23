@@ -1,0 +1,78 @@
+navbar-links:
+    Archive: /archives
+    Contact: /contact
+    A propos: /about
+
+avatar: /S.jpg
+favicon: /favicon.ico
+
+header:
+    title: "Concepteur Développeur Frontend & Backend"
+    motto: Un blog destiné à partager mes connaissances
+    bigimgs:
+        - src: /bigimgs/04.jpg
+          desc: Bienvenue dans le futur
+        - src: /bigimgs/05.jpg
+          desc: La technologie une passion
+        - src: /bigimgs/06.jpg
+          desc: J'aime produire un travail de qualité
+
+rss: /atom.xml
+googlefonts:
+  - "Lora:400,700,400italic,700italic"
+  - "Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800"
+
+highlight:
+  enable: true
+# or use any highlight.js style
+#  style_path: "//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.5.0/styles/default.min.css"
+  style_path: "/css/highlight.css"
+
+footer:
+  facebook:
+    link: # your link e.g. https://...
+    title: Facebook
+    icon: fa-facebook
+    enable: false
+  weibo:
+    link: 'http://weibo.com/bisyao?is_all=1'
+    title: Weibo
+    icon: fa-weibo
+    enable: false
+  github:
+    link: 'https://github.com/NolanRoose'
+    title: GitHub
+    icon: fa-github
+    enable: true
+  rss:
+    link: '/atom.xml'
+    title: RSS
+    icon: fa-rss
+    enable: false
+  twitter:
+    link: 'https://twitter.com/_nolanR'
+    title: Twitter
+    icon: fa-twitter
+    enable: true
+  mail:
+    link: 'mailto:roose.nolan@gmail.com'
+    title: Email me
+    icon: fa-envelope
+    enable: false
+  linkin:
+    link: https://fr.linkedin.com/in/nolan-roose-4ab77a112
+    title: LinkedIn
+    icon: fa-linkedin
+    enable: true
+  stackoverflow:
+    link: # your link here e.g. http...
+    title: StackOverflow
+    icon: fa-stack-overflow
+    enable: false
+
+google_analytics:
+
+comment:
+  enable: false
+  disqus:
+
