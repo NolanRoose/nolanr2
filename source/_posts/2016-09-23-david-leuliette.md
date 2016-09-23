@@ -1,5 +1,5 @@
 ---
-title: David une personne pleine de ressources
+title: David Leuliette un développeur JavaScript plein de ressources
 date: 23/09/2016
 desc: David leuliette Designer & développeur
 tags: [Designer, Développeur Web]
@@ -50,7 +50,7 @@ David à obtenu son __DUT Informatique - Imagenie Numérique__ en septembre 2006
 Il a commencé sa vie de développeur au Fresnoy Studio d’art contemporain - Tourcoing en 2007. Il a ensuite travaillé dans diverses sociétés qui lui on permis d’acquérir de plus en plus de compétences. À l’heure ou je vous parle, il est embauché chez Ineat Conseil tout comme moi et nous sommes sur une mission d’application mobile chez le même client.
 
 __Ses compétences :__
-![competence](https://cloud.githubusercontent.com/assets/14938257/18348711/49afe7c6-75cd-11e6-8d25-e2896cec19a6.png)
+![competence](competence.png)
 
 ## Que m’as t-il apporté en terme de développement ?
 
@@ -73,7 +73,7 @@ La liste est longue… David est une des meilleurs personne que j’ai rencontr�
 
 David travaille chez Ineat Conseil, mais en parallèle il mène une activité de Freelance et également de professeur à l’IUT de calais et au Wagon.
 
-Vous pouvez télécharger son cv [d’expert développeur front-end](http://davidl.fr/cv.html) ou [l’ajouter su linkedin](https://www.linkedin.com/in/david-leuliette-456701121).
+Vous pouvez télécharger son cv [d’expert développeur front-end](http://davidl.fr/cv.html) ou [l’ajouter sur linkedin](https://www.linkedin.com/in/david-leuliette-456701121).
 
 Je vous le recommande vivement et tout son entourage fera de même.
 
