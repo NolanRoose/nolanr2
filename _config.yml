@@ -5,7 +5,7 @@
 # Site
 title: NolanR.Fr
 subtitle:
-description:
+description: Mon site web sur le monde du developpement frontend & backend
 author: Nolan Roose
 language: fr
 timezone:
@@ -68,7 +68,7 @@ theme: beautiful-hexo
 archive_generator:
     per_page: 10
     yearly: true
-    monthly: true
+    monthly: false
     daily: false
 
 # Deployment
