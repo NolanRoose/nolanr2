@@ -1,9 +1,11 @@
 ---
-title: contact
-date: 2016-09-23 13:34:24
-desc: Vous cherchez à me joindre c'est par ici.
+title: Comment me joindre ?
+titleP: Contacter Nolan Roose
+date: 2016-09-23 13:43:30
+desc: Vous voulez prendre contact avec moi ?
+layout: contact
+tags: [Nolan Roose, Concepteur Développeur, Frontend, Backend]
 ---
-
-## Mon Mail
+![](index/redaction.png)
 
 roose.nolan@gmail.com
