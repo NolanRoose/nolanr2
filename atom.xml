@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Nolanr.Fr</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://nolanr.fr/"/>
+  <updated>2016-09-23T13:51:13.946Z</updated>
+  <id>http://nolanr.fr/</id>
+  
+  <author>
+    <name>Nolan Roose</name>
+    <email>roose.nolan@gmail.com</email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>David Leuliette un de mes mentors</title>
+    <link href="http://nolanr.fr/david-leuliette/"/>
+    <id>http://nolanr.fr/david-leuliette/</id>
+    <published>2016-09-23T13:51:13.946Z</published>
+    <updated>2016-09-23T13:51:13.946Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="davidLeuliette.jpg" alt="davidleuliette developpeur front-end"></p>
+<p>Bonjour à tous, voici mon premier article, qui parlera d’une personne qui m’a beaucoup influencé et aidé à progresser.</p>
+<p><strong>David Leuliette</strong> est un Designer &amp; développeur front-end Lillois d’une trentaine d’années.<br>Spécialisé dans le responsive webdesign, il dessine et développe des interfaces qui s’adaptent au différents terminaux : smartphones, tablettes et ordinateurs de bureau.</p>
+<p>Vous pouvez découvrir son activité de <a href="http://davidl.fr/" target="_blank" rel="external">freelance consultant et formateur front-end</a></p>
+<p>Ses années de veille technologique, ainsi que ses études d’informatique et de design, lui ont permis d’acquérir de solides compétences dans le domaine du web.<br>Passionné par internet, les nouvelles technologies, militant OpenSource, il écrit des articles sur la vie d’un travailleur du Web<br>→ <a href="http://davidl.fr/blog/" target="_blank" rel="external">Blog de David Leuliette</a></p>
+<h2 id="Une-personne-atypique"><a href="#Une-personne-atypique" class="headerlink" title="Une personne atypique"></a>Une personne atypique</h2><p><strong>David est une personne pleine de vie, ne se prenant pas la tête !</strong></p>
+<p>Il aime beaucoup tout automatiser pour se simplifier la vie, il appelle ça “Être dans le turfu !”.<br>Il exprime une réelle passion pour son métier, possède un sens du partage, il n’hésitera pas à se caler une heure avec vous pour vous expliquer ce que vous n’avait pas compris.</p>
+<p><strong>Une de ces priorité : produire un travail de qualité !</strong></p>
+<p>Quand il est en mission, il n’hésite pas à dire ce qu’il pense aux clients “Non mais vous avez craqué, c’est pourris ça !”,<br>mais uniquement dans le but d’améliorer le produit du client “Moi je vous propose d’utiliser ça, ce qui améliora les performance, et l’expérience utilisateur”.</p>
+<p><strong>Il a changé ma vision du monde !</strong></p>
+<p>David est fan de tous ce qui touche au collaboratif et au partage !<br>BlaBlaCar, Twitter, Facebook, Bloging, Conférence, NewsLetter et j’en passe.<br>Il m’as fait découvrir des choses que je pensais appartenir au domaine de la fiction !</p>
+<p>David aime beaucoup partir à l’aventure en voyage — En mode Yolo — avec peu de préparation.<br>Je pourrais le comparer à Bear Grylls mais version 21ème siecle, il est parti récemment pendant 100 jours en Amérique du sud, uniquement avec quelques affaires, iPhone 6 pour de jolies photos, et quelque dollards par jour ! Cela lui à permi de ce couper du monde, de souffler et se ressourcer.</p>
+<p>Retrouvez son article : <a href="http://davidl.fr/blog/offthegrid.html" target="_blank" rel="external">Déconnexion de David — 100 jours de voyage</a></p>
+<p>Il m’a transmis le fait d’apprécier les choses simple de la vie, de ne pas ce mettre de pression, et de profiter à fond !</p>
+<h2 id="Son-parcours"><a href="#Son-parcours" class="headerlink" title="Son parcours"></a>Son parcours</h2><p>David à obtenu son <strong>DUT Informatique - Imagenie Numérique</strong> en septembre 2006 à l’IUT de Calais, ensuite sa <strong>Licence Pro - Concepteur Intégrateur WEB</strong> en février 2008 à Efficom à Lille. La majeure partie de ses connaissances ? Il l’as acquis en <strong>autodidacte</strong>. Savoir se tenir à jour est indispensable pour suivre les technologies du web, participer à des conférences, suivre différentes formations…</p>
+<p>Il a commencé sa vie de développeur au Fresnoy Studio d’art contemporain - Tourcoing en 2007. Il a ensuite travaillé dans diverses sociétés qui lui on permis d’acquérir de plus en plus de compétences. À l’heure ou je vous parle, il est embauché chez Ineat Conseil tout comme moi et nous sommes sur une mission d’application mobile chez le même client.</p>
+<p><strong>Ses compétences :</strong><br><img src="competence.png" alt="competence"></p>
+<h2 id="Que-m’as-t-il-apporte-en-terme-de-developpement"><a href="#Que-m’as-t-il-apporte-en-terme-de-developpement" class="headerlink" title="Que m’as t-il apporté en terme de développement ?"></a>Que m’as t-il apporté en terme de développement ?</h2><ul>
+<li><p>Il m’a initié à <strong>Sublime text</strong>, ce qui à quadruplé mon efficacité en codage !<br>Des plugins pour tout, des raccourcis qui vous simplifient la vie, des linter qui vous forcent à avoir une rigeur de code !<br>Retrouvez son article <a href="http://davidl.fr/sublime.html" target="_blank" rel="external">maitriser Sublime Text comme un pro</a>.</p>
+</li>
+<li><p>Il m’as ensuite partagé son expertise sur <strong>Git</strong> &amp; <strong>GitHub</strong>, 2 outils indispensable pour travailler en équipe.<br>Retrouvez son article <a href="http://davidl.fr/git.html" target="_blank" rel="external">installation de git sur MacOS, Linux &amp; Windows</a>.</p>
+</li>
+<li><p>Il m’as appris à savoir <strong>gérer une équipe</strong> sans jouer au “Petit chef”, notamment avec la <a href="http://www.geek-directeur-technique.com/2009/02/12/les-methodes-agiles" target="_blank" rel="external">méthode agile scrum</a> et gérer son backlog avec Trello.</p>
+</li>
+<li><p>Il m’a <strong>sensibilisé au “responsive design”</strong>, comment mettre en place et utiliser une <em>grid</em> simplement, ce qui permet de créer des interfaces utilisateurs de qualité, intuitives, et multi-plateforme, grâce à des frameworks comme <a href="http://foundation.zurb.com/sites.html" target="_blank" rel="external">Foundation 6</a> et <a href="http://ionicframework.com/" target="_blank" rel="external">Ionic</a>.</p>
+</li>
+<li><p>Il m’as démontré la puissance des “tasks runner” comme <a href="http://gulpjs.com/" target="_blank" rel="external">Gulp</a>, des générateur comme <a href="http://yeoman.io/" target="_blank" rel="external">Yeoman</a>.</p>
+</li>
+</ul>
+<p>La liste est longue… David est une des meilleurs personne que j’ai rencontré dans ma jeune carrière ! Il ne se qualifie pas d’expert mais je le trouve modeste ! Il est vraiment pédagogue et ne vous lâchera pas la grappe le temps que vous n’aurez pas compris clairement les choses, en même temps il est professeur à l’IUT de calais, et donne des cours au <a href="https://www.lewagon.com/fr" target="_blank" rel="external">Wagon</a> de Brussel.</p>
+<h2 id="Faites-lui-confiance-ne-vous-le-regretez-pas"><a href="#Faites-lui-confiance-ne-vous-le-regretez-pas" class="headerlink" title="Faites lui confiance, ne vous le regretez pas !"></a>Faites lui confiance, ne vous le regretez pas !</h2><p>David travaille chez Ineat Conseil, mais en parallèle il mène une activité de Freelance et également de professeur à l’IUT de calais et au Wagon.</p>
+<p>Vous pouvez télécharger son cv <a href="http://davidl.fr/cv.html" target="_blank" rel="external">d’expert développeur front-end</a> ou <a href="https://www.linkedin.com/in/david-leuliette-456701121" target="_blank" rel="external">l’ajouter sur linkedin</a>.</p>
+<p>Je vous le recommande vivement et tout son entourage fera de même.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;davidLeuliette.jpg&quot; alt=&quot;davidleuliette developpeur front-end&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Bonjour à tous, voici mon premier article, qui parlera d
+    
+    </summary>
+    
+    
+      <category term="Designer" scheme="http://nolanr.fr/tags/Designer/"/>
+    
+      <category term="Développeur Web" scheme="http://nolanr.fr/tags/Developpeur-Web/"/>
+    
+      <category term="JavaScript" scheme="http://nolanr.fr/tags/JavaScript/"/>
+    
+      <category term="Design" scheme="http://nolanr.fr/tags/Design/"/>
+    
+      <category term="MobileFirst" scheme="http://nolanr.fr/tags/MobileFirst/"/>
+    
+  </entry>
+  
+</feed>
