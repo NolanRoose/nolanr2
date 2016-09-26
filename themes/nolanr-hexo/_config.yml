@@ -3,8 +3,8 @@ navbar-links:
     Contact: /contact
     A propos: /about
 
-avatar: /S.jpg
-favicon: /favicon.ico
+avatar: /logo_nolan.png
+favicon: /logo_nolan.png
 
 header:
     title: "Concepteur Développeur Frontend & Backend"
