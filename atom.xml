@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://nolanr.fr/"/>
-  <updated>2016-09-23T13:51:13.946Z</updated>
+  <updated>2016-10-04T11:09:24.190Z</updated>
   <id>http://nolanr.fr/</id>
   
   <author>
@@ -16,11 +16,79 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Le titre professionel concepteur développeur</title>
+    <link href="http://nolanr.fr/Titre-Pro-Concepteur-Developpeur/"/>
+    <id>http://nolanr.fr/Titre-Pro-Concepteur-Developpeur/</id>
+    <published>2016-10-04T11:29:14.000Z</published>
+    <updated>2016-10-04T11:09:24.190Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="ineat.png" alt="Ineat"> <img src="greta.png" alt="Greta grand Hainaut"></p>
+<p>Bonjour à tous, aujourd’hui je vais vous parler de la formation qui m’a permis d’acquérir des bases solides et m’a donné l’opportunité d’intégrer <a href="http://www.ineat-conseil.com/fr/" target="_blank" rel="external">Ineat</a>. Avant toute chose je vais vous parler du centre de formation <a href="http://www.greta-npdc.fr/greta/grand-hainaut/" target="_blank" rel="external">le Greta grand Hainaut de Douais</a> et d’<a href="http://www.ineat-conseil.com/fr/" target="_blank" rel="external">Ineat</a>.</p>
+<h2 id="Ineat-une-grande-famille"><a href="#Ineat-une-grande-famille" class="headerlink" title="Ineat une grande famille"></a>Ineat une grande famille</h2><p>Amis d’enfance, Cyril Delbecq et Yves Delnatte ont fondé leur société en Aout 2006, <strong>Ineat-Conseil</strong> est devenue depuis peu (seminaire de ce weekend) <strong>Ineat</strong> ou <strong>Ineat Group</strong>, possédant 4 sites, le principal se trouve à Lille, le second à paris, et ensuite Londres et Brussels.</p>
+<p><strong>Quelque chiffres</strong> :</p>
+<ul>
+<li>190 collaborateurs</li>
+<li>12M d’euros de chiffre d’affaires en 2015</li>
+<li>une croissance de 40% en 10 ans</li>
+</ul>
+<p>Pour les 10 ans, 125 collaborateurs d’Ineat ont eu la chance de partir 4 jours en séminaire, à Dubrovnik en Croatie sur le thème de <a href="https://fr.wikipedia.org/wiki/Game_of_Thrones" target="_blank" rel="external">Games of Thrones</a>.</p>
+<p>Durant ce séminaire, trois réunions plénières ont eu lieu regroupant les collaborateurs dans la “fun attitude”, sur les bords d’une mer bleu turcquoise à 23°C, <img src="Vue_Reunion.jpg" alt="la vue depuis la reunion"> un cadre magnifique pour présenter la nouvelle identité d’Ineat, quelques chiffres, les <em>Buisness lines</em> misent en place et celles à venir, la nouvelle organisation ou les certaines pratiques remisent au gouts du jours, les objectifs pour 2017 et le cap <strong><em>Horizon 2020</em></strong>.</p>
+<p><strong>Le nouveau logo d’Ineat</strong> :<br><img src="logo_agence_ineat.png" alt="Ineat logo"></p>
+<p><strong>Les nouvelles valeurs d’Ineat</strong> :  <strong>S</strong>ouplesse, <strong>P</strong>erformance, <strong>I</strong>nnitiative, <strong>R</strong>esponsabilité, <strong>I</strong>nnovation, <strong>T</strong>ransformation → <strong>SPIRIT</strong>.</p>
+<p><strong>Les Buisness Lignes d’Ineat</strong> :</p>
+<ul>
+<li>A venir.</li>
+</ul>
+<h2 id="Greta-un-centre-de-formation-a-l’image-des-entreprise"><a href="#Greta-un-centre-de-formation-a-l’image-des-entreprise" class="headerlink" title="Greta un centre de formation à l’image des entreprise"></a>Greta un centre de formation à l’image des entreprise</h2><p>J’ai effectué la partie théorique de ma formation au <a href="http://www.greta-npdc.fr/greta/grand-hainaut/" target="_blank" rel="external">GRETA</a> du grand Hainaut du <a href="http://edmond-labbe.savoirsnumeriques5962.fr/" target="_blank" rel="external">Lycée Edmond Labbé de Douai</a>. <img src="labbe.jpg" alt="Lycée Edmond Labbe Douai"></p>
+<p>Le GRETA, est l’ organisme de l’Éducation Nationale qui conçoie et réalise des formations pour adultes dans la plupart des métiers.</p>
+<p>Pour ma part j’ai intégré le <a href="http://www.greta-npdc.fr/actualite/devenez-concepteur-developpeur-informatique-video/" target="_blank" rel="external">Titre pro Concepteur développeur informatique</a> qui se déroule en alternance au rythme de deux jours en <a href="http://edmond-labbe.savoirsnumeriques5962.fr/actualites/titre-professionnel-quot-concepteur-developpeur-informatique-quot-/" target="_blank" rel="external">Centre de formation</a> et trois jours en entreprise, dans mon cas chez <a href="http://www.ineat-conseil.com/fr/" target="_blank" rel="external">Ineat</a>.<br>C’est un titre pro de niveau II, qui équivaut à un bac +3/+4, et cette formation est rémurée, les participants sont des salariés de l’entreprise, mais auront également un status d’<em>etudiant des métiers</em> (cool pour les réductions ;-)).</p>
+<p>Ce titre pro permet de former les personnes à fin de répondre aux besoins des entreprises, les modules qui composent cette formation ont étaient composé directement par les entreprises composant l’association <a href="http://www.as2i.asso.fr/" target="_blank" rel="external">AS2I</a>.</p>
+<p><strong>Liste des modules</strong>:</p>
+<ul>
+<li>Module 1 : Technologie objet (104 heures)</li>
+<li>Module 2 : Bases de données relationnelles  (40 heures)</li>
+<li>Module 3 : Développement d’applications web (68 heures)</li>
+<li>Module 4 : Développement d’ applications mobiles (52 heures)</li>
+<li>Module 5: Développement d’applications “Cloud”  (42 heures)</li>
+<li>Module 6 : Analyse des données en masse (30 heures)</li>
+<li>Module 7 : Projet (70 heures)</li>
+<li>Module 8 : Conférences Professionnelles (32 heures)</li>
+<li>Module 9 : Anglais (69 heures)</li>
+<li>Module 10 : Communication professionnelle (63 heures)</li>
+<li>Evaluation CCP (18 heures)</li>
+</ul>
+<p>A l’issue de la formation les <em>jeunes <a href="http://fr.starwars.wikia.com/wiki/Padawan" target="_blank" rel="external">Padawan</a></em>, seront capable de <strong>développer des composants d’interface</strong>, de <strong>développer la persistance des données</strong>, de <strong>développer une application n-tiers</strong>.</p>
+<p>Vous pouvez candidater directement sur le site du <a href="http://edmond-labbe.savoirsnumeriques5962.fr/actualites/titre-professionnel-quot-concepteur-developpeur-informatique-quot-/" target="_blank" rel="external">lycée Edmond labbe</a>.</p>
+<h2 id="Mon-Retour-d’experience"><a href="#Mon-Retour-d’experience" class="headerlink" title="Mon Retour d’expérience"></a>Mon Retour d’expérience</h2><p>En conclusion, se fut une expérience très enrichissante professionnellement et socialement. Ce fut un réel plaisir de découvrir de nouvelles technologies, d’être formé sur ces dernières. Cette formation permet de mettre un premier pied en douceur dans le monde du travail et de découvrir la gestion d’un projet en mode agile.</p>
+<p>Tout au long de ce cursus, j’ai rencontré des personnes formidables, à l’écoute, avec une réelle envie de transmettre leurs connaissances. Grâce à elles j’ai pu réaliser une réelle montée en compétences non négligeable, elles m’ont fait murir professionnellement et socialement, je n’aborde plus la vie de la même façon grâce à elles et je les remercie.</p>
+<p>Ce titre pro, ne fait que confirmer les dires des formateurs, « il y a un réel fossé entre le monde scolaire et le monde professionnel », en moins d’un an et en immersion professionnelle, j’ai acquis un niveau de développement inatteignable dans les filières habituelles comme les licences par exemple. Grâce à cette formation, j’ai signé un CDI chez <a href="http://www.ineat-conseil.com/fr/" target="_blank" rel="external">Ineat</a>. Ce titre pro est une réelle opportunité de carrière.</p>
+<p>Une des choses les plus importantes qui m’a permis d’atteindre mon niveau professionnel actuel, c’est la confiance que Yves Delnatte (fondateur et DG de Ineat) m’a accordé, ce n’est pas facile pour un professionnel de faire confiance à de jeunes gens comme moi sortant d’un bac +2, mais il m’a donné ma chance sans hésiter, et je l’en remercie. Je recommande vraiment cette formation, à toutes personnes voulant se construire un avenir solide rempli d’opportunités.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;ineat.png&quot; alt=&quot;Ineat&quot;&gt; &lt;img src=&quot;greta.png&quot; alt=&quot;Greta grand Hainaut&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Bonjour à tous, aujourd’hui je vais vous parler 
+    
+    </summary>
+    
+    
+      <category term="Ineat" scheme="http://nolanr.fr/tags/Ineat/"/>
+    
+      <category term="Greta grand Hainaut" scheme="http://nolanr.fr/tags/Greta-grand-Hainaut/"/>
+    
+      <category term="Lycée Edmond Labbe" scheme="http://nolanr.fr/tags/Lycee-Edmond-Labbe/"/>
+    
+      <category term="Euratechnologie" scheme="http://nolanr.fr/tags/Euratechnologie/"/>
+    
+  </entry>
+  
+  <entry>
     <title>David Leuliette un de mes mentors</title>
     <link href="http://nolanr.fr/david-leuliette/"/>
     <id>http://nolanr.fr/david-leuliette/</id>
-    <published>2016-09-23T13:51:13.946Z</published>
-    <updated>2016-09-23T13:51:13.946Z</updated>
+    <published>2016-10-04T11:09:24.186Z</published>
+    <updated>2016-10-04T11:09:24.186Z</updated>
     
     <content type="html"><![CDATA[<p><img src="davidLeuliette.jpg" alt="davidleuliette developpeur front-end"></p>
 <p>Bonjour à tous, voici mon premier article, qui parlera d’une personne qui m’a beaucoup influencé et aidé à progresser.</p>
