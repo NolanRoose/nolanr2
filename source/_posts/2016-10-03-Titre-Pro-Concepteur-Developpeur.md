@@ -39,7 +39,7 @@ J'ai effectué la partie théorique de ma formation au [GRETA](http://www.greta-
 
 Le GRETA, est l' organisme de l’Éducation Nationale qui conçoie et réalise des formations pour adultes dans la plupart des métiers.
 
-Pour ma part j'ai suivie le [Titre pro Concepteur développeur informatique](http://www.greta-npdc.fr/actualite/devenez-concepteur-developpeur-informatique-video/) qui se déroule en alternance au rythme 2/3, deux jours en [Centre de formation](http://edmond-labbe.savoirsnumeriques5962.fr/actualites/titre-professionnel-quot-concepteur-developpeur-informatique-quot-/), et trois jours en entreprise, dans mon cas chez [Ineat](http://www.ineat-conseil.com/fr/), et cette formation est rémuré, les particapant seront des salarié de l'entreprise, mais auront également un status d' *Etudiant des métiers* (cool pour les réductions ;-)).
+Pour ma part j'ai suivie le [Titre pro Concepteur développeur informatique](http://www.greta-npdc.fr/actualite/devenez-concepteur-developpeur-informatique-video/) qui se déroule en alternance au rythme 2/3, deux jours en [Centre de formation](http://edmond-labbe.savoirsnumeriques5962.fr/actualites/titre-professionnel-quot-concepteur-developpeur-informatique-quot-/), et trois jours en entreprise, dans mon cas chez [Ineat](http://www.ineat-conseil.com/fr/), c'est un titre pro de niveau II, qui équivaut à un bac +3/+4, et cette formation est rémuré, les particapant seront des salarié de l'entreprise, mais auront également un status d' *Etudiant des métiers* (cool pour les réductions ;-)).
 
 Ce titre pro permet de former les gens à fin de correspondre aux besoins des entreprise, les modules qui compose cette formation on était composé directement par les entreprise faisant partient de [AS2I](http://www.as2i.asso.fr/).
 
