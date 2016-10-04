@@ -1,5 +1,5 @@
 ---
-titleP: Ma formation avec le Greta & Ineat
+titleP: Formation avec le Greta & Ineat
 title: Le titre professionel concepteur développeur
 date: 2016-10-04 13:29:14
 desc: Le titre pro concepteur développeur inforamtique, est une formation bac +3 +4 en alternance, j'ai effectué cette dernière avec le Greta grand Hainaut, et Ineat
@@ -63,7 +63,7 @@ A l'issue de la formation les *jeunes [Padawan](http://fr.starwars.wikia.com/wik
 
 Vous pouvez candidater directement sur le site du [lycée Edmond labbe](http://edmond-labbe.savoirsnumeriques5962.fr/actualites/titre-professionnel-quot-concepteur-developpeur-informatique-quot-/).
 
-## Mon Retour d'expérience
+## Retour d'expérience
 
 En conclusion, se fut une expérience très enrichissante professionnellement et socialement. Ce fut un réel plaisir de découvrir de nouvelles technologies, d’être formé sur ces dernières. Cette formation permet de mettre un premier pied en douceur dans le monde du travail et de découvrir la gestion d’un projet en mode agile.
 

@@ -10,11 +10,11 @@ tags: [Nolan Roose, Concepteur Développeur, Frontend, Backend]
 Bonjour à tous, je me présente, je m'appelle Nolan Roose je suis née le 30 novembre 1995 à Lens. Je suis actuelement embauché chez [Ineat](http://www.ineat-conseil.com/fr/) en tant que [Concepteur Développeur informatique](https://fr.wikipedia.org/wiki/Concepteur_d%C3%A9veloppeur_informatique).
 
 
-###  <i class="fa fa-graduation-cap"></i> Mon Parcours Scolaire
+###  <i class="fa fa-fw fa-lg fa-graduation-cap"></i> Mon Parcours Scolaire
 
 Après avoir obtenu mon brevet des collège au [Collège Jean Jaures Lens](http://jean-jaures-lens.savoirsnumeriques5962.fr/), j'ai décidé de faire un [BAC S](https://fr.wikipedia.org/wiki/Baccalaur%C3%A9at_scientifique) option [SI](https://fr.wikipedia.org/wiki/Sciences_de_l%27ing%C3%A9nieur) (Sciences de l'ingénieur) que j'ai obtenu en 2013, j'ai ensuite intégré le [BTS IRIS](https://fr.wikipedia.org/wiki/Brevet_de_technicien_sup%C3%A9rieur_-_Informatique_et_r%C3%A9seaux_pour_l%27industrie_et_les_services_techniques) au [lycée Edmond Labbe de Douai](http://edmond-labbe.savoirsnumeriques5962.fr/) que j'ai acquis en 2015 haut la main, pour enfin rejoindre les rangs du [Titre professionel Concepteur développeur](/Titre-Pro-Concepteur-Developpeur) toujours au [lycée Edmond Labbe de Douai](http://edmond-labbe.savoirsnumeriques5962.fr/) que j'ai également obtenue avec grands succé (le jury de l'épreuve final à tenté de me recruter ^^). Ce dernier ce déroulé en alternance et est donc ma vrais première experience professionelle, je vous detail ça juste en dessous.
 
-###  <i class="fa fa-industry"></i> Mon Parcours Professionel
+###  <i class="fa fa-fw fa-lg fa-industry"></i> Mon Parcours Professionel
 
 * Comme dit ci dessus le [Titre professionel Concepteur développeur](/Titre-Pro-Concepteur-Developpeur) fut ma vraie première expérience professionelle, après un stage en [Technicien supérieur en informatique](https://fr.wikipedia.org/wiki/Technicien_sup%C3%A9rieur_en_r%C3%A9seaux_informatiques_et_t%C3%A9l%C3%A9communications) dans l'usine [Renault Douai](https://group.renault.com/groupe/implantations/implantations-renault/usine-douai/) effectué pour [mon BTS](https://fr.wikipedia.org/wiki/Brevet_de_technicien_sup%C3%A9rieur_-_Informatique_et_r%C3%A9seaux_pour_l%27industrie_et_les_services_techniques).
 Donc dans le cadre du [Titre pro](/Titre-Pro-Concepteur-Developpeur) j'ai intégré Ineat en alternance au rythme de 2 jours en centre de formation et 3 Jours en entreprise.
@@ -26,7 +26,7 @@ Au début de la mission j'ai intégré l'équipe de développement [Backend](htt
 Au bout d'un mois j'ai intégrer l'équipe [Frontend](http://www.alticreation.com/difference-developpeur-front-end-et-developpeur-back-end/), pour développer l'[application mobile hybride](http://www.appsolute.fr/natives-web-ou-hybrides-que-choisir/), avec comme framework [AngularJS](https://angularjs.org/), [Ionic](http://ionicframework.com/) et avec [Cordova](https://cordova.apache.org/).
 Durant cette mission j'ai également fait une montée en compétences énorme sur [Git](https://git-scm.com/), [GitHub](https://github.com/), et la gestion de projet avec la [methode Agile](http://www.agiliste.fr/introduction-methodes-agiles/),et cela grâce à [David Leuliette](/david-leuliette).
 
-###  <i class="fa fa-user"></i> Ma Personnalité
+###  <i class="fa fa-fw fa-lg fa-user"></i> Ma Personnalité
 
 Après avoir parlé de ce que j'ai fait, je vous dit ce que je suis. Je suis quelqu'un de rigoureux, ponctuel, passionné, impliqué, et acharné. J'aime partager mes connaissances, et en apprendre d'avantage. J'aime produire un travail de qualité, et amener de la plus value aux clients et à [mon entreprise](http://www.ineat-conseil.com/fr/), j'aime faciliter la vie des utilisateurs finaux des produits que je développe.
 

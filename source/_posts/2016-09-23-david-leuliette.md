@@ -1,7 +1,7 @@
 ---
 titleP: David Leuliette un développeur riche en ressources
 title: David Leuliette un de mes mentors
-date: 23/09/2016
+date: 2016-09-23 00:00:00
 desc: David leuliette Designer & développeur
 tags: [Designer, Développeur Web, JavaScript, Design, MobileFirst]
 ---

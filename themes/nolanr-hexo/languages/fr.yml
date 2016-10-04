@@ -3,4 +3,5 @@ next: 'Posts plus récents →'
 prev_post: '← Post Précédent'
 next_post: 'Post Suivant →'
 more: '[Lire Plus]'
-date_post: 'Posté le '
+date_post: 'Posté le'
+since: "Depuis le"
