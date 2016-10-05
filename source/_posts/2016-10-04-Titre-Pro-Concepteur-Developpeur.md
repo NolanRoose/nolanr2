@@ -21,14 +21,14 @@ __Quelque chiffres__ :
 
 Pour les 10 ans, 125 collaborateurs d'Ineat ont eu la chance de partir 4 jours en séminaire, à Dubrovnik en Croatie sur le thème de [Games of Thrones](https://fr.wikipedia.org/wiki/Game_of_Thrones).
 
-Durant ce séminaire, trois réunions plénières ont eu lieu regroupant les collaborateurs dans la "fun attitude", sur les bords d'une mer bleu turcquoise à 23°C, ![la vue depuis la reunion](Vue_Reunion.jpg) un cadre magnifique pour présenter la nouvelle identité d'Ineat, quelques chiffres, les *Buisness lines* misent en place et celles à venir, la nouvelle organisation ou les certaines pratiques remisent au gouts du jours, les objectifs pour 2017 et le cap __*Horizon 2020*__.
+Durant ce séminaire, trois réunions plénières ont eu lieu regroupant les collaborateurs dans la "fun attitude", sur les bords d'une mer bleu turcquoise à 23°C, ![la vue depuis la reunion](Vue_Reunion.jpg) un cadre magnifique pour présenter la nouvelle identité d'Ineat, quelques chiffres, les *Services lines* misent en place et celles à venir, la nouvelle organisation ou les certaines pratiques remisent au gouts du jours, les objectifs pour 2017 et le cap __*Horizon 2020*__.
 
 __Le nouveau logo d'Ineat__ :
 ![Ineat logo](logo_agence_ineat.png)
 
 __Les nouvelles valeurs d'Ineat__ :  __S__ouplesse, __P__erformance, __I__nnitiative, __R__esponsabilité, __I__nnovation, __T__ransformation → __SPIRIT__.
 
-__Les Buisness Lignes d'Ineat__ :
+__Les Services Lignes d'Ineat__ :
 
   * A venir.
 
