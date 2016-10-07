@@ -2,7 +2,7 @@
 titleP: Formation avec le Greta & Ineat
 title: Le titre professionel concepteur développeur
 date: 2016-10-04 13:29:14
-desc: Le titre pro concepteur développeur inforamtique, est une formation bac +3 +4 en alternance, j'ai effectué cette dernière avec le Greta grand Hainaut, et Ineat
+desc: Le titre pro concepteur développeur informatique, est une formation bac +3 +4 en alternance, j'ai effectué cette dernière avec le Greta grand Hainaut, et Ineat
 tags: [Ineat, Greta grand Hainaut, Lycée Edmond Labbe, Euratechnologie]
 ---
 ![Ineat](ineat.png) ![Greta grand Hainaut](greta.png)
