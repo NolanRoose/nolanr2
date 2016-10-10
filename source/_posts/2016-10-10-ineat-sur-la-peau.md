@@ -2,7 +2,7 @@
 titleP: Signification de mon tatouage du logo Ineat
 title: Ineat dans ou sur la peau ?
 date: 2016-10-10 10:13:21
-desc: Cet article n'as pas pour but de me justifier de mon choix mais l'expliquer
+desc: Cet article n'as pas pour but de justifier mon choix mais l'expliquer
 tags: [Tatouage, Ink, Ineat, Nouveau depart]
 ---
 
@@ -11,13 +11,13 @@ Avant toutes choses définissons ce qu'est un tatouage, et pourquoi en faire un.
 
 ## Qu'est ce qu'un tatouage ?
 
-Un tatouage est un dessin décoratif et/ou symbolique réalisé en injectant de l'encre dans la peau. Auparavant, il était effectué avec de l'encre de Chine ou des encres à base de charbon ou de suif. De nos jours il est plus couramment utilisé de l'encre contenant des pigments industriels. Il existe différentes couleurs d'encre et même une encre transparente qui ne réagit qu'à la lumière noire : ce type de tatouage est appelé tatouage « UV » ou « Blacklight ». Le tatouage est considéré comme un type de modification corporelle permanente.
+> Un tatouage est un dessin décoratif et/ou symbolique réalisé en injectant de l'encre dans la peau. Auparavant, il était effectué avec de l'encre de Chine ou des encres à base de charbon ou de suif. De nos jours il est plus couramment utilisé de l'encre contenant des pigments industriels. Il existe différentes couleurs d'encre et même une encre transparente qui ne réagit qu'à la lumière noire : ce type de tatouage est appelé tatouage « UV » ou « Blacklight ». Le tatouage est considéré comme un type de modification corporelle permanente.
 
-La technique du tatouage consiste à injecter l'encre sous la peau à l'aide d'aiguilles ou d'objets pointus. L'encre est déposée sous la peau entre le derme et l'épiderme. La profondeur de la piqûre varie de 1 à 4 mm en fonction des types de peau et des parties du corps, les zones les plus épaisses se situant dans le dos, les coudes et les genoux.
+> La technique du tatouage consiste à injecter l'encre sous la peau à l'aide d'aiguilles ou d'objets pointus. L'encre est déposée sous la peau entre le derme et l'épiderme. La profondeur de la piqûre varie de 1 à 4 mm en fonction des types de peau et des parties du corps, les zones les plus épaisses se situant dans le dos, les coudes et les genoux.
 
-Le tatouage est pratiqué depuis plusieurs milliers d'années dans le monde entier. Il peut être réalisé pour des raisons symboliques, religieuses ou esthétiques. Dans plusieurs civilisations, il est même considéré comme un rite de passage à cause de la douleur endurée lors de la réalisation du motif.
+> Le tatouage est pratiqué depuis plusieurs milliers d'années dans le monde entier. Il peut être réalisé pour des raisons symboliques, religieuses ou esthétiques. Dans plusieurs civilisations, il est même considéré comme un rite de passage à cause de la douleur endurée lors de la réalisation du motif.
 
-_source:  [Tatouage extrait de wikipedia](https://fr.wikipedia.org/wiki/Tatouage)_
+_ — source [wikipedia](https://fr.wikipedia.org/wiki/Tatouage)_
 
 ## Pourquoi fait on vraiment un tatouage ?
 
