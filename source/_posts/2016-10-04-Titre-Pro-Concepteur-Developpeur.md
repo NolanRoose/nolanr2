@@ -24,13 +24,18 @@ Pour les 10 ans, 125 collaborateurs d'Ineat ont eu la chance de partir 4 jours e
 Durant ce séminaire, trois réunions plénières ont eu lieu regroupant les collaborateurs dans la "fun attitude", sur les bords d'une mer bleu turcquoise à 23°C, ![la vue depuis la reunion](Vue_Reunion.jpg) un cadre magnifique pour présenter la nouvelle identité d'Ineat, quelques chiffres, les *Services lines* misent en place et celles à venir, la nouvelle organisation ou les certaines pratiques remisent au gouts du jours, les objectifs pour 2017 et le cap __*Horizon 2020*__.
 
 __Le nouveau logo d'Ineat__ :
-![Ineat logo](logo_agence_ineat.png)
+<img src="logo_agence_ineat.png" width="400">
 
 __Les nouvelles valeurs d'Ineat__ :  __S__ouplesse, __P__erformance, __I__nnitiative, __R__esponsabilité, __I__nnovation, __T__ransformation → __SPIRIT__.
 
-__Les Services Lignes d'Ineat__ :
+__Les lignes de services d'Ineat__ :
 
-  * A venir.
+  * Consulting (transformation digitale, alignement stratégique, organisation, management des SI)
+  * Agency (Création grapique, Ergonomie, Maquettage, WebDesign)
+  * Expertise (AMOA, Architecture, Expertise technologique, Pilotage, Recette)
+  * Solutions (Développement de solutions sur mesure, Maintenance de parcs applicatifs, Intégration de solutions pré-packagées)
+  * Technology (Ingénierie Systèmes & réseaux, Architecture technique, Industrialisation & déploiement, Cloud services & infogérance)
+  * Academy (Catalogue de formations et expertise, Cursus spécifiques, Activités de formation ponctuelles)
 
 
 
