@@ -25,8 +25,8 @@ googlefonts:
 highlight:
   enable: true
 # or use any highlight.js style
-#  style_path: "//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.5.0/styles/default.min.css"
-  style_path: "/css/highlight.css"
+  style_path: "//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.7.0/styles/monokai.min.css"
+#  style_path: "/css/highlight.css"
 
 footer:
   facebook:
