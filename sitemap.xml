@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://nolanr.fr/about/index.html</loc>
+    
+    <lastmod>2017-01-18T10:30:19.177Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://nolanr.fr/Titre-Pro-Concepteur-Developpeur/</loc>
     
-    <lastmod>2016-10-21T13:06:21.549Z</lastmod>
+    <lastmod>2017-01-18T10:30:13.454Z</lastmod>
     
   </url>
   
@@ -19,13 +26,6 @@
     <loc>http://nolanr.fr/david-leuliette/</loc>
     
     <lastmod>2016-10-06T07:41:46.831Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://nolanr.fr/about/index.html</loc>
-    
-    <lastmod>2016-10-06T07:15:30.945Z</lastmod>
     
   </url>
   
